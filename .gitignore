@@ -23,6 +23,7 @@
 capybara-*.html
 .rspec
 /.bundle
+/.elasticbeanstalk
 /vendor/bundle
 /log/*
 /tmp/*
